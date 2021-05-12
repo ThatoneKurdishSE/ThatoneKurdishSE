@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**ThatoneKurdishSE/ThatoneKurdishSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello سڵاو مرحبا Merhaba! 
 
-Here are some ideas to get you started:
+💥Who am I?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   - 👩🏽‍💻Raz here! I like languages 🧠+ flying ✈️. I am a software developer with lots of energy to ✨beautify✨ already beautiful backends.
+
+💥What kinda techs do I like?
+
+   - I LOVE GOLANG! Fiber is by far my favorite framework to work with. Ideally I'd be building my backends with Golang and frontend with React⚛️.
+   - I also have experience in Ruby on Rails 💎 + mobile development 📱.
+
+💥What am I busy with right now?
+
+   - Currently working on building my personal portfolio using React.js ⚛️ with a Golang backend (mostly seeded data storage)! My newest bebe is my meditation app
+   - Pema is my multilingual meditation app. It is a mobile app with authentication on the backend + React Native on the frontend.
+   - I am also JOB SEARCHING! which has been hard, kind of like the meme "I need experience to get a job. -But I also need a job to get experience!"
+
+💥Let's be friends!
+
+- Linkedin: [https://www.linkedin.com/in/razaljaf/]
+- Denver Devs slackspace @ Raz!
+- Follow me on Github!
